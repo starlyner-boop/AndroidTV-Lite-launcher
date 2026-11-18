@@ -9,6 +9,15 @@ and no third-party library.
 ## Disclamer
 All the code in this project was written by Claude, Anthropic’s AI, from my ideas and requests. I came up with the app, chose every feature and design detail, and tested everything on my TVs, but I didn’t write the code myself.
 
+## Captures
+<img width="1920" height="1080" alt="capture01" src="https://github.com/user-attachments/assets/52e21784-70a7-4b4c-ac9e-a18c1f5e7fa3" />
+<img width="1920" height="1080" alt="capture02" src="https://github.com/user-attachments/assets/236e4f66-5835-4fd6-9662-83c9bcfe4d37" />
+<img width="1920" height="1080" alt="capture03" src="https://github.com/user-attachments/assets/108aba7a-39c1-43ab-bd1a-26f1ab575b00" />
+<img width="1920" height="1080" alt="capture04" src="https://github.com/user-attachments/assets/2421d98b-5adb-4d3b-822d-ffc23a18db0c" />
+<img width="1920" height="1080" alt="capture05" src="https://github.com/user-attachments/assets/fd2408a7-f474-4eac-937b-342919ce7eff" />
+<img width="1920" height="1080" alt="capture06" src="https://github.com/user-attachments/assets/6e73f00e-35cf-4c03-b834-c90782b9d588" />
+<img width="1920" height="1080" alt="capture07" src="https://github.com/user-attachments/assets/df30f236-94a6-4e86-b403-5a2ea8b941bb" />
+
 ## Features
 
 - **Favourites dock** in black-and-white tiles with an animated neon border on focus, plus an "All apps" grid
@@ -27,17 +36,6 @@ All the code in this project was written by Claude, Anthropic’s AI, from my id
 - **Startup animations** (minimal, or a small retro-TV mascot) with a synthesised sound.
 - **Settings menu** with the remote. The interface is in French, English and Spanish, or follows the TV's
   language. Interface size is adjustable.
-
-## Captures
-
-<img width="1920" height="1080" alt="capture01" src="https://github.com/user-attachments/assets/52e21784-70a7-4b4c-ac9e-a18c1f5e7fa3" />
-<img width="1920" height="1080" alt="capture02" src="https://github.com/user-attachments/assets/236e4f66-5835-4fd6-9662-83c9bcfe4d37" />
-<img width="1920" height="1080" alt="capture03" src="https://github.com/user-attachments/assets/108aba7a-39c1-43ab-bd1a-26f1ab575b00" />
-<img width="1920" height="1080" alt="capture04" src="https://github.com/user-attachments/assets/2421d98b-5adb-4d3b-822d-ffc23a18db0c" />
-<img width="1920" height="1080" alt="capture05" src="https://github.com/user-attachments/assets/fd2408a7-f474-4eac-937b-342919ce7eff" />
-<img width="1920" height="1080" alt="capture06" src="https://github.com/user-attachments/assets/6e73f00e-35cf-4c03-b834-c90782b9d588" />
-<img width="1920" height="1080" alt="capture07" src="https://github.com/user-attachments/assets/df30f236-94a6-4e86-b403-5a2ea8b941bb" />
-
 
 ## Install
 

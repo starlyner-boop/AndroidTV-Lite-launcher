@@ -6,7 +6,8 @@ A clean home screen for Android TV / Google TV with a favourites dock, rotating 
 "Ken Burns" motion, and a few live widgets. The whole APK is about 100 KB, with no ads, no tracking, no account
 and no third-party library.
 
-<!-- Add screenshots here: docs/screenshot-1.jpg … -->
+## Disclamer
+All the code in this project was written by Claude, Anthropic’s AI, from my ideas and requests. I came up with the app, chose every feature and design detail, and tested everything on my TVs, but I didn’t write the code myself.
 
 ## Features
 

@@ -6,6 +6,9 @@ Un écran d'accueil épuré pour Android TV / Google TV avec un dock de favoris,
 un lent mouvement « Ken Burns », et quelques widgets en direct. L'APK entier fait environ 100 Ko, sans pub, sans
 pistage, sans compte et sans bibliothèque tierce.
 
+## Disclamer
+Tout le code de ce projet a été écrit par Claude, l’IA d’Anthropic, à partir de mes idées et de mes demandes. J’ai imaginé l’appli, décidé de chaque fonction et du design, et tout testé sur mes télés, mais je n’ai pas écrit le code moi-même.
+
 <!-- Ajoute des captures ici : docs/capture-1.jpg … -->
 
 ## Fonctions
